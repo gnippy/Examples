@@ -1,7 +1,7 @@
 PowerTrack - All of the examples below connect to the Premium streams.  In most cases, simply changing the URL will change which stream.
 
-BasicOps - 
+BasicOps - Shows how to add, delete and list rules programmatically.
 
-Connection - 
+Connection - Simply makes a connection and gets the rules.
 
-Streaming - 
+Streaming - Connects to the data stream.
