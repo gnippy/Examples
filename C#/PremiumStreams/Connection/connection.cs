@@ -33,7 +33,7 @@ namespace Connection
  
            request.Timeout = 5000; // in milliseconds, so max timeout after 5 seconds.
  
-//            string credentials = Convert.ToBase64String(ASCIIEncoding.ASCII.GetBytes("mbusch@gnipcentral.com", "nexus7"));
+//            string credentials = Convert.ToBase64String(ASCIIEncoding.ASCII.GetBytes("username", "password"));
 //            request.Headers.Add("Authorization", "\"Basic \"" + credentials);
             return (WebRequest)request;
         }
